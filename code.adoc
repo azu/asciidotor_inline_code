@@ -1,0 +1,8 @@
+== for Asciidoctor 1.4.x stable
+
+日本語では、このように`some_code()`と書くことがあります。
+
+== for Asciidoctor v1.5.0preview7
+
+日本語では、このように `some_code()` と書くことがあります。
+
